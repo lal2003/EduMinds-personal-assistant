@@ -1,1 +1,3 @@
 openai==0.10.0
+streamlit==<version>
+streamlit==1.0.0
